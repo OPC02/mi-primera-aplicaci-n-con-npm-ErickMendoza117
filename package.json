@@ -1,0 +1,27 @@
+{
+  "name": "package_manager",
+  "version": "1.0.0",
+  "description": "Ejemplo de clase de web platforms que explica el uso de dependencias.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-ErickMendoza117.git"
+  },
+  "keywords": [
+    "UACH",
+    "WEB",
+    "Dependencias"
+  ],
+  "author": "Erick Mendoza Escarzaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-ErickMendoza117/issues"
+  },
+  "homepage": "https://github.com/OPC02/mi-primera-aplicaci-n-con-npm-ErickMendoza117#readme",
+  "dependencies": {
+    "log4js": "^6.9.1"
+  }
+}
