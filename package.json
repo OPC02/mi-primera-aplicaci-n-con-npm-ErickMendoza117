@@ -4,7 +4,9 @@
   "description": "Ejemplo de clase de web platforms que explica el uso de dependencias.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx mocha",
+    "dev": "supervisor ./src/index.js",
+    "start": "node ./src/index.js"
   },
   "repository": {
     "type": "git",

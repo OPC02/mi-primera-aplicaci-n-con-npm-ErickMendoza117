@@ -1,5 +1,6 @@
 const logger = require('./logger');
-
+var x =0;
+let mi_variable = "Hola";
 let PI = 3.1416;
 
 function main(){

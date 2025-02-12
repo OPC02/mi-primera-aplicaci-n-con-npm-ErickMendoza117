@@ -106,5 +106,5 @@ Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al re
 ---
 ## Autor
 
-<Coloca aquí tu nombre y mátricula>
+<Coloca Erick Mendoza Escarzaga 357307>
 
